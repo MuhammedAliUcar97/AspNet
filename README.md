@@ -1,5 +1,6 @@
 ORTALAMATİK:
 ![ortalamatikmvc](https://user-images.githubusercontent.com/115897973/231569653-16c896fa-49ec-47a6-a630-66621e4df9d2.png)
+Youtube link:https://www.youtube.com/watch?v=4otH-zY4ycc
 
 COFFE SHOP:
 ![image](https://user-images.githubusercontent.com/115897973/231537829-99e85c0d-dddf-410e-8a59-83d62f284f50.png)
