@@ -17,3 +17,7 @@ Youtube Link:https://www.youtube.com/watch?v=c5A5ew4LE7c
 Login Page:
 ![Ekran görüntüsü 2023-05-03 155940](https://user-images.githubusercontent.com/115897973/235923456-ac1b1324-d0be-4e60-8665-635bd9f82cc0.png)
 Youtube Link:https://www.youtube.com/watch?v=ElkUH7maTBA
+
+Paramator Turkey:
+![Ekran görüntüsü 2023-05-11 074734](https://github.com/MuhammedAliUcar97/AspNet/assets/115897973/26c88c9c-e052-4edf-abe8-4eb07555000f)
+Youtube Link:https://youtu.be/zpGKW4ZVrT4
